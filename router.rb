@@ -84,8 +84,8 @@ class Router
   def print_delivery_guy_menu
     puts ""
     puts "What do you want to do next?"
-    puts "1 - List undelivered orders TODO"
-    puts "2 - Mark an order as delivered TODO"
+    puts "1 - List undelivered orders"
+    puts "2 - Mark an order as delivered"
     puts "3 - log out"
     puts "4 - Exit"
     print "> "
